@@ -1,0 +1,7 @@
+Title: Impact of Scaling on Feature Selection with RFE
+Slug: scaling-rfe
+Date: 2017-01-03 14:30
+Category: Posts
+Tags: machine_learning feature_selection RFE
+Author: Fatih Sarigoz
+Summary: Explore impact of scaling using Sklearn RFE tool.
