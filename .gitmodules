@@ -4,3 +4,6 @@
 [submodule "plugins/pelican-bootstrapify"]
 	path = plugins/pelican-bootstrapify
 	url = git://github.com/ingwinlu/pelican-bootstrapify.git
+[submodule "output"]
+	path = output
+	url = https://github.com/fsarigoz/fsarigoz.github.io.git
